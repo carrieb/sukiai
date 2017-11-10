@@ -1,0 +1,19 @@
+{
+  "name": "sukiai",
+  "version": "1.0.0",
+  "description": "&lt;3 &lt;3",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrieb/sukiai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrieb/sukiai/issues"
+  },
+  "homepage": "https://github.com/carrieb/sukiai#readme"
+}
